@@ -1,6 +1,8 @@
 
 # ATM Machine In TypeScript
-I have made a project of an ATM machine in TypeScript that takes your Username and UserPin and then you have to choose one from your current account or saving account. After that, it asks for fast cash or withdrawal amount. If you choose fast cash it gives you readymade options for cash amount else you have to manually enter the amount. If you have enough balance in your account, your transaction will be successful. I have randomly created the account balance of the user. It deducts the entered amount from the total amount and shows the remaining account balance. ## Demo to Project
+I have made a project of an ATM machine in TypeScript that takes your Username and UserPin and then you have to choose one from your current account or saving account. After that, it asks for fast cash or withdrawal amount. If you choose fast cash it gives you readymade options for cash amount else you have to manually enter the amount. If you have enough balance in your account, your transaction will be successful. I have randomly created the account balance of the user. It deducts the entered amount from the total amount and shows the remaining account balance. 
+
+## Demo to Project
 
 ```bash
 ? Please enter your UserID: Ali
